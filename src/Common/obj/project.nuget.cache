@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fiADg6WN4tY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dabin\\.nuget\\packages\\communitytoolkit.mvvm\\8.3.0\\communitytoolkit.mvvm.8.3.0.nupkg.sha512",
+    "C:\\Users\\dabin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\dabin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\dabin\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.122\\microsoft.xaml.behaviors.wpf.1.1.122.nupkg.sha512"
+  ],
+  "logs": []
+}

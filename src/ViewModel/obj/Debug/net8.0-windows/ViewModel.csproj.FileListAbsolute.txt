@@ -1,0 +1,17 @@
+C:\Users\dabin\source\repos\MVVMToolkitNavigation\ViewModel\bin\Debug\net8.0-windows\ViewModel.deps.json
+C:\Users\dabin\source\repos\MVVMToolkitNavigation\ViewModel\bin\Debug\net8.0-windows\ViewModel.dll
+C:\Users\dabin\source\repos\MVVMToolkitNavigation\ViewModel\bin\Debug\net8.0-windows\ViewModel.pdb
+C:\Users\dabin\source\repos\MVVMToolkitNavigation\ViewModel\bin\Debug\net8.0-windows\Common.dll
+C:\Users\dabin\source\repos\MVVMToolkitNavigation\ViewModel\bin\Debug\net8.0-windows\Common.pdb
+C:\Users\dabin\source\repos\MVVMToolkitNavigation\ViewModel\obj\Debug\net8.0-windows\ViewModel.csproj.AssemblyReference.cache
+C:\Users\dabin\source\repos\MVVMToolkitNavigation\ViewModel\obj\Debug\net8.0-windows\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dabin\source\repos\MVVMToolkitNavigation\ViewModel\obj\Debug\net8.0-windows\ViewModel.AssemblyInfoInputs.cache
+C:\Users\dabin\source\repos\MVVMToolkitNavigation\ViewModel\obj\Debug\net8.0-windows\ViewModel.AssemblyInfo.cs
+C:\Users\dabin\source\repos\MVVMToolkitNavigation\ViewModel\obj\Debug\net8.0-windows\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\dabin\source\repos\MVVMToolkitNavigation\ViewModel\obj\Debug\net8.0-windows\ViewModel.csproj.Up2Date
+C:\Users\dabin\source\repos\MVVMToolkitNavigation\ViewModel\obj\Debug\net8.0-windows\ViewModel.dll
+C:\Users\dabin\source\repos\MVVMToolkitNavigation\ViewModel\obj\Debug\net8.0-windows\refint\ViewModel.dll
+C:\Users\dabin\source\repos\MVVMToolkitNavigation\ViewModel\obj\Debug\net8.0-windows\ViewModel.pdb
+C:\Users\dabin\source\repos\MVVMToolkitNavigation\ViewModel\obj\Debug\net8.0-windows\ref\ViewModel.dll
+C:\Users\dabin\source\repos\MVVMToolkitNavigation\ViewModel\bin\Debug\net8.0-windows\Model.dll
+C:\Users\dabin\source\repos\MVVMToolkitNavigation\ViewModel\bin\Debug\net8.0-windows\Model.pdb

@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{954C49C5-5B0C-411A-8BAF-EF76EC69A0ED}|ViewModel\\ViewModel.csproj|c:\\users\\dabin\\source\\repos\\mvvmtoolkitnavigation\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C49C5-5B0C-411A-8BAF-EF76EC69A0ED}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C49C5-5B0C-411A-8BAF-EF76EC69A0ED}|ViewModel\\ViewModel.csproj|c:\\users\\dabin\\source\\repos\\mvvmtoolkitnavigation\\viewmodel\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C49C5-5B0C-411A-8BAF-EF76EC69A0ED}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62AE139-5F6E-4C8A-A155-923C6EFE1409}|Common\\Common.csproj|c:\\users\\dabin\\source\\repos\\mvvmtoolkitnavigation\\common\\framebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62AE139-5F6E-4C8A-A155-923C6EFE1409}|Common\\Common.csproj|solutionrelative:common\\framebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB1EFED-D80F-4DF3-B42C-D5A8928C4413}|MVVMToolkitNavigation\\MVVMToolkitNavigation.csproj|c:\\users\\dabin\\source\\repos\\mvvmtoolkitnavigation\\mvvmtoolkitnavigation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DCB1EFED-D80F-4DF3-B42C-D5A8928C4413}|MVVMToolkitNavigation\\MVVMToolkitNavigation.csproj|solutionrelative:mvvmtoolkitnavigation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A09624-79F6-4AF2-BD09-CD3426CB5EA2}|View\\View.csproj|c:\\users\\dabin\\source\\repos\\mvvmtoolkitnavigation\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A09624-79F6-4AF2-BD09-CD3426CB5EA2}|View\\View.csproj|solutionrelative:view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0457904-0E4E-46C2-B2EE-7511147F26EC}|Model\\Model.csproj|c:\\users\\dabin\\source\\repos\\mvvmtoolkitnavigation\\model\\messages\\navigationmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0457904-0E4E-46C2-B2EE-7511147F26EC}|Model\\Model.csproj|solutionrelative:model\\messages\\navigationmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62AE139-5F6E-4C8A-A155-923C6EFE1409}|Common\\Common.csproj|c:\\users\\dabin\\source\\repos\\mvvmtoolkitnavigation\\common\\enumhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62AE139-5F6E-4C8A-A155-923C6EFE1409}|Common\\Common.csproj|solutionrelative:common\\enumhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62AE139-5F6E-4C8A-A155-923C6EFE1409}|Common\\Common.csproj|c:\\users\\dabin\\source\\repos\\mvvmtoolkitnavigation\\common\\inavigationaware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62AE139-5F6E-4C8A-A155-923C6EFE1409}|Common\\Common.csproj|solutionrelative:common\\inavigationaware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62AE139-5F6E-4C8A-A155-923C6EFE1409}|Common\\Common.csproj|c:\\users\\dabin\\source\\repos\\mvvmtoolkitnavigation\\common\\serviceproviderholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62AE139-5F6E-4C8A-A155-923C6EFE1409}|Common\\Common.csproj|solutionrelative:common\\serviceproviderholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A09624-79F6-4AF2-BD09-CD3426CB5EA2}|View\\View.csproj|c:\\users\\dabin\\source\\repos\\mvvmtoolkitnavigation\\view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7A09624-79F6-4AF2-BD09-CD3426CB5EA2}|View\\View.csproj|solutionrelative:view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C49C5-5B0C-411A-8BAF-EF76EC69A0ED}|ViewModel\\ViewModel.csproj|c:\\users\\dabin\\source\\repos\\mvvmtoolkitnavigation\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C49C5-5B0C-411A-8BAF-EF76EC69A0ED}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C49C5-5B0C-411A-8BAF-EF76EC69A0ED}|ViewModel\\ViewModel.csproj|c:\\users\\dabin\\source\\repos\\mvvmtoolkitnavigation\\viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{954C49C5-5B0C-411A-8BAF-EF76EC69A0ED}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB1EFED-D80F-4DF3-B42C-D5A8928C4413}|MVVMToolkitNavigation\\MVVMToolkitNavigation.csproj|c:\\users\\dabin\\source\\repos\\mvvmtoolkitnavigation\\mvvmtoolkitnavigation\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB1EFED-D80F-4DF3-B42C-D5A8928C4413}|MVVMToolkitNavigation\\MVVMToolkitNavigation.csproj|solutionrelative:mvvmtoolkitnavigation\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB1EFED-D80F-4DF3-B42C-D5A8928C4413}|MVVMToolkitNavigation\\MVVMToolkitNavigation.csproj|c:\\users\\dabin\\source\\repos\\mvvmtoolkitnavigation\\mvvmtoolkitnavigation\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB1EFED-D80F-4DF3-B42C-D5A8928C4413}|MVVMToolkitNavigation\\MVVMToolkitNavigation.csproj|solutionrelative:mvvmtoolkitnavigation\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A09624-79F6-4AF2-BD09-CD3426CB5EA2}|View\\View.csproj|c:\\users\\dabin\\source\\repos\\mvvmtoolkitnavigation\\view\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A09624-79F6-4AF2-BD09-CD3426CB5EA2}|View\\View.csproj|solutionrelative:view\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB1EFED-D80F-4DF3-B42C-D5A8928C4413}|MVVMToolkitNavigation\\MVVMToolkitNavigation.csproj|c:\\users\\dabin\\source\\repos\\mvvmtoolkitnavigation\\mvvmtoolkitnavigation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB1EFED-D80F-4DF3-B42C-D5A8928C4413}|MVVMToolkitNavigation\\MVVMToolkitNavigation.csproj|solutionrelative:mvvmtoolkitnavigation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A09624-79F6-4AF2-BD09-CD3426CB5EA2}|View\\View.csproj|c:\\users\\dabin\\source\\repos\\mvvmtoolkitnavigation\\view\\customerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7A09624-79F6-4AF2-BD09-CD3426CB5EA2}|View\\View.csproj|solutionrelative:view\\customerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A09624-79F6-4AF2-BD09-CD3426CB5EA2}|View\\View.csproj|c:\\users\\dabin\\source\\repos\\mvvmtoolkitnavigation\\view\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7A09624-79F6-4AF2-BD09-CD3426CB5EA2}|View\\View.csproj|solutionrelative:view\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{954C49C5-5B0C-411A-8BAF-EF76EC69A0ED}|ViewModel\\ViewModel.csproj|c:\\users\\dabin\\source\\repos\\mvvmtoolkitnavigation\\viewmodel\\viewmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{954C49C5-5B0C-411A-8BAF-EF76EC69A0ED}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\viewmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A09624-79F6-4AF2-BD09-CD3426CB5EA2}|View\\View.csproj|c:\\users\\dabin\\source\\repos\\mvvmtoolkitnavigation\\view\\customerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A09624-79F6-4AF2-BD09-CD3426CB5EA2}|View\\View.csproj|solutionrelative:view\\customerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\MVVMToolkitNavigation\\obj\\Debug\\net8.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVVMToolkitNavigation\\obj\\Debug\\net8.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB1EFED-D80F-4DF3-B42C-D5A8928C4413}|MVVMToolkitNavigation\\MVVMToolkitNavigation.csproj|c:\\users\\dabin\\source\\repos\\mvvmtoolkitnavigation\\mvvmtoolkitnavigation\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DCB1EFED-D80F-4DF3-B42C-D5A8928C4413}|MVVMToolkitNavigation\\MVVMToolkitNavigation.csproj|solutionrelative:mvvmtoolkitnavigation\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 51,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavigationMessage.cs",
+              "DocumentMoniker": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\Model\\Messages\\NavigationMessage.cs",
+              "RelativeDocumentMoniker": "Model\\Messages\\NavigationMessage.cs",
+              "ToolTip": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\Model\\Messages\\NavigationMessage.cs",
+              "RelativeToolTip": "Model\\Messages\\NavigationMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:27:20.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\View\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "View\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\View\\HomePage.xaml.cs",
+              "RelativeToolTip": "View\\HomePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:10:36.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\MVVMToolkitNavigation\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MVVMToolkitNavigation\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\MVVMToolkitNavigation\\App.xaml.cs",
+              "RelativeToolTip": "MVVMToolkitNavigation\\App.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwB8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:39:20.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\ViewModel\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\ViewModel\\ViewModelBase.cs",
+              "RelativeToolTip": "ViewModel\\ViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:01:25.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrameBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\Common\\FrameBehavior.cs",
+              "RelativeDocumentMoniker": "Common\\FrameBehavior.cs",
+              "ToolTip": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\Common\\FrameBehavior.cs",
+              "RelativeToolTip": "Common\\FrameBehavior.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:52:27.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\View\\MainPage.xaml",
+              "RelativeDocumentMoniker": "View\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\View\\MainPage.xaml",
+              "RelativeToolTip": "View\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-03T01:13:26.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceProviderHolder.cs",
+              "DocumentMoniker": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\Common\\ServiceProviderHolder.cs",
+              "RelativeDocumentMoniker": "Common\\ServiceProviderHolder.cs",
+              "ToolTip": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\Common\\ServiceProviderHolder.cs",
+              "RelativeToolTip": "Common\\ServiceProviderHolder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:06:55.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "INavigationAware.cs",
+              "DocumentMoniker": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\Common\\INavigationAware.cs",
+              "RelativeDocumentMoniker": "Common\\INavigationAware.cs",
+              "ToolTip": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\Common\\INavigationAware.cs",
+              "RelativeToolTip": "Common\\INavigationAware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:55:26.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnumHelper.cs",
+              "DocumentMoniker": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\Common\\EnumHelper.cs",
+              "RelativeDocumentMoniker": "Common\\EnumHelper.cs",
+              "ToolTip": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\Common\\EnumHelper.cs",
+              "RelativeToolTip": "Common\\EnumHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T01:34:45.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\View\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "View\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\View\\MainPage.xaml.cs",
+              "RelativeToolTip": "View\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T01:37:53.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModel\\MainViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T01:15:01.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\MVVMToolkitNavigation\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MVVMToolkitNavigation\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\MVVMToolkitNavigation\\MainWindow.xaml",
+              "RelativeToolTip": "MVVMToolkitNavigation\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-02T08:37:53.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\ViewModel\\CustomerViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\CustomerViewModel.cs",
+              "ToolTip": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\ViewModel\\CustomerViewModel.cs",
+              "RelativeToolTip": "ViewModel\\CustomerViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:19:41.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerPage.xaml",
+              "DocumentMoniker": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\View\\CustomerPage.xaml",
+              "RelativeDocumentMoniker": "View\\CustomerPage.xaml",
+              "ToolTip": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\View\\CustomerPage.xaml",
+              "RelativeToolTip": "View\\CustomerPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-03T00:12:16.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\View\\HomePage.xaml",
+              "RelativeDocumentMoniker": "View\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\View\\HomePage.xaml",
+              "RelativeToolTip": "View\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-03T00:10:20.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\ViewModel\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\ViewModel\\HomeViewModel.cs",
+              "RelativeToolTip": "ViewModel\\HomeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:16:34.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\MVVMToolkitNavigation\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "MVVMToolkitNavigation\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\MVVMToolkitNavigation\\MainWindowViewModel.cs",
+              "RelativeToolTip": "MVVMToolkitNavigation\\MainWindowViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:40:11.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\MVVMToolkitNavigation\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MVVMToolkitNavigation\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\MVVMToolkitNavigation\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MVVMToolkitNavigation\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:37:52.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\View\\CustomerPage.xaml.cs",
+              "RelativeDocumentMoniker": "View\\CustomerPage.xaml.cs",
+              "ToolTip": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\View\\CustomerPage.xaml.cs",
+              "RelativeToolTip": "View\\CustomerPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:22:53.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ViewModel.csproj",
+              "DocumentMoniker": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\ViewModel\\ViewModel.csproj",
+              "RelativeDocumentMoniker": "ViewModel\\ViewModel.csproj",
+              "ToolTip": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\ViewModel\\ViewModel.csproj",
+              "RelativeToolTip": "ViewModel\\ViewModel.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T09:04:11.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.g.cs",
+              "DocumentMoniker": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\MVVMToolkitNavigation\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "RelativeDocumentMoniker": "MVVMToolkitNavigation\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "ToolTip": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\MVVMToolkitNavigation\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "RelativeToolTip": "MVVMToolkitNavigation\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwDMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:33:34.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\MVVMToolkitNavigation\\App.xaml",
+              "RelativeDocumentMoniker": "MVVMToolkitNavigation\\App.xaml",
+              "ToolTip": "C:\\Users\\dabin\\source\\repos\\MVVMToolkitNavigation\\MVVMToolkitNavigation\\App.xaml",
+              "RelativeToolTip": "MVVMToolkitNavigation\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-02T08:39:13.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
